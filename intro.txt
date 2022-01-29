@@ -1,1 +1,7 @@
 Uvod u git 
+
+naucit cemo osnove komande
+
+git int 
+git clone 
+git push itd..
